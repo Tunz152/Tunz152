@@ -1,11 +1,8 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tunz Jr
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tunz
 ========================================================================================================================================
 
-I'm Web Developer from `Tunz Jr Team`
+I'm Web Developer from `Tunz`
 ---------------------------------
-
-`Code Lyoko` is a French animated television series that premiered in 2003. The show follows a group of teenagers who discover a virtual world called Lyoko, which is inhabited by artificial intelligence and is threatened by a malevolent entity known as XANA. This is a movie that I have liked since I was young, so I named my team after this movie.
-
 * 🌍  I'm based in Viet Nam
 
 ### Skills
