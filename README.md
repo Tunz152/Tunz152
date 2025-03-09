@@ -25,3 +25,5 @@ I made projects just for fun, training my skills...
 <a href="http://www.github.com/Tunz152"><img src="https://github-readme-stats.vercel.app/api?username=Tunz152&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="Tunz152's GitHub stats" /></a>
 
 <a href="http://www.github.com/Tunz152"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tunz152&stroke=ffffff&background=22272e&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/954356272306745364?showDisplayName=true&hideDecoration=true&hideTimestamp=false&hideBadges=false&hideActivity=false&hideDiscrim=false&animatedDecoration=true&hideStatus=false&hideClan=false&hideProfile=false&animated=true)](https://discord.com/users/954356272306745364)
