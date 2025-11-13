@@ -18,13 +18,14 @@ I made projects just for fun, training my skills...
 
 <p align="left">
 
-  <!-- Codepen -->
-  <a href="https://www.codepen.io/namnguyenthanhwork" target="_blank" rel="noreferrer">
-    <picture>
-      <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" media="(prefers-color-scheme: dark)">
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32">
-    </picture>
-  </a>
+<!-- Discord -->
+<a href="https://discord.com/users/YOUR_ID" target="_blank" rel="noreferrer">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32">
+  </picture>
+</a>
+
 
   <!-- GitHub -->
   <a href="https://github.com/Tunz152" target="_blank" rel="noreferrer">
