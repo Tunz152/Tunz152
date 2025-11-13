@@ -19,7 +19,7 @@ I made projects just for fun, training my skills...
 <p align="left">
 
 <!-- Discord -->
-<a href="https://discord.com/users/YOUR_ID" target="_blank" rel="noreferrer">
+<a href="https://discord.gg/JTXRJqN8JP" target="_blank" rel="noreferrer">
   <picture>
     <source srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" media="(prefers-color-scheme: dark)">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32">
